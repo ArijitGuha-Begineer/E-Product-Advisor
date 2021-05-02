@@ -9,3 +9,7 @@
 - Aayush Bansal : https://github.com/blastert777
 - Aakash Rana : https://github.com/AakashRana000q
 - Arijit Guha : https://github.com/ArijitGuha-Begineer
+
+# Snippets
+![sniipet1](https://user-images.githubusercontent.com/78094309/116806042-1435d780-ab48-11eb-82bb-14218b7e91fb.png)
+![snippet2](https://user-images.githubusercontent.com/78094309/116806044-14ce6e00-ab48-11eb-9761-e6fb8585b692.png)
