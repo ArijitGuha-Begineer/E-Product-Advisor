@@ -2,6 +2,8 @@
 - Our  secondary project is "Textile defect detection"
 - It is basically a nural network that takes images of textile as input and checks whether its defected or not.
 
+-Key Point:
+ if defected : it prints *1* otherwise *0*
 # Team : FivePhoenix
 
 #Team Members and their git repo:
