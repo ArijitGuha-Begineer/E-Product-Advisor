@@ -1,6 +1,8 @@
 # Hackfest-2021
 
 Here are the primary and secondary ideas our team had worked upon during the Hackfest Event 2021 
+primary idea= "E-product advisor"
+secondary idea= "Infopine"
 
 
 #Team Members and their git repo:
