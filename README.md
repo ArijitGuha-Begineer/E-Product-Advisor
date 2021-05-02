@@ -7,5 +7,5 @@
 - Ayush Budhiraja: 
 - Ayush Ajay : https://github.com/AyushAjay14
 - Aayush Bansal 
-- Aakash Rana 
+- Aakash Rana : https://github.com/AakashRana000q
 - Arijit Guha : https://github.com/ArijitGuha-Begineer
