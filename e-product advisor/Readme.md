@@ -11,5 +11,5 @@
 - Arijit Guha : https://github.com/ArijitGuha-Begineer
 
 # Snippets
-![sniipet1](https://user-images.githubusercontent.com/78094309/116806042-1435d780-ab48-11eb-82bb-14218b7e91fb.png)
+![snippet](https://user-images.githubusercontent.com/78094309/116808442-64b43180-ab56-11eb-9d29-6306d9562d2e.png)
 ![snippet2](https://user-images.githubusercontent.com/78094309/116806044-14ce6e00-ab48-11eb-9761-e6fb8585b692.png)
