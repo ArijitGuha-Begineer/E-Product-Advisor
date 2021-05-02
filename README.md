@@ -1,5 +1,5 @@
 # Hackfest-2021
-- Our primary project for Hackfest 2021 is "E-product advisor" and secondary project is "Textile defect detection"
+- Our primary project for Hackfest 2021 is "E-product advisor"
 - It advises users to buy the best possible product in the given buget.
 # Team : FivePhoenix
 
