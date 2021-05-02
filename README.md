@@ -4,7 +4,7 @@
 # Team : FivePhoenix
 
 #Team Members and their git repo:
-- Ayush Budhiraja: 
+- Ayush Budhiraja: https://github.com/Alphx-rgb
 - Ayush Ajay : https://github.com/AyushAjay14
 - Aayush Bansal : https://github.com/blastert777
 - Aakash Rana : https://github.com/AakashRana000q
