@@ -102,17 +102,17 @@ def start(product,attributes , budget_min ,budget_max):
                 #print(int(rev.split()[0]))
 
                 if(int(rev.split()[0]) >= int(Ratings[0])):
-                    d = f"You should choose product {i}"
-                    print(f"You should choose product {i}")
+                    d = f"\n\nYou should choose product {i}"
+                    print(f"\n\nYou should choose product {i}")
                     list.append(i)
                     list.append(max(float(product2),float(c) ))
                 else:
-                    d = f"you should choose product {product}"
-                    print(f"you should choose product {product}")
+                    d = f"\n\nyou should choose product {product}"
+                    print(f"\n\nyou should choose product {product}")
                     print(f"Here is the link {flip}")
                     list.append(product)
         else:
-            print(f"You should choose product {i}")
+            print(f"\n\n You should choose product  {i}")
             list.append(i)
             list.append(c)
 
