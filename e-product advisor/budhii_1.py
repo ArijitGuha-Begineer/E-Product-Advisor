@@ -6,7 +6,7 @@ WIDTH = 600
 def final_callback(product,attri,lowr,uppr):
     list1=final_amazon.start(product,attri,lowr,uppr)
     name = list1[0]
-    str = "The recommended product is \n" ,  name , "\n\n the link for the product is \n"
+    str = "The recommended product is \n" , name.replace('{' ,'').replace("}", "" )
 
     label['text'] = str
 
