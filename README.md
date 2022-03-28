@@ -10,4 +10,4 @@ primary idea= "E-product advisor"
 - Ayush Ajay : https://github.com/AyushAjay14
 - Aayush Bansal : https://github.com/blastert777
 - Aakash Rana : https://github.com/AakashRana000q
-- Arijit Guha : https://github.com/ArijitGuha-Begineer
+- Arijit Guha : https://github.com/ArijitGuha0179
